@@ -1,0 +1,27 @@
+{
+ "contactOwner": "6283160327945",
+ "botName": "OHLX STORE",
+ "ownerName": "Admin OHLX STORE",
+ "sessionName": "kayla",
+ "footer": "OHLX © 2022",
+ "packname": "OHLX",
+ "author": "STORE",
+
+ "api_zenz": "lexxybotygy",
+ "api_pasha": "Pasha",
+ "apikey_antlatic": "76bb2ba440b6270dde1805cd1f61b82863a014b834e0bc943bd8c089eac335cc",
+
+ "payment": {
+    "qris": {
+      "link_nya": "https://telegra.ph/file/86ffdd295d690d782a3ec.jpg",
+      "atas_nama": "BJB STORE"
+    },
+    "dana": {
+      "nomer": "083848128003",
+      "atas_nama": "NOOR"
+    }},
+    
+  "pathQris": "./temp/media/qris.jpg",
+  "pathThumb": "./temp/media/menu.jpg",
+  "pathMenfes": "./temp/media/menfes.jpg"
+}
